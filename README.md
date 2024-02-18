@@ -1,4 +1,4 @@
-# Trend-Based Strategy Optimization using PSO and Genetic Algorithm
+# Trend-Based Strategy Optimization using PSO and GA
 
 ## Overview
 This repository contains code and instructions for optimizing a trend-based trading strategy using Particle Swarm Optimization (PSO) and Genetic Algorithm (GA). The strategy focuses on the EURUSD currency pair, utilizing 90% of 1-hour candlestick data.
