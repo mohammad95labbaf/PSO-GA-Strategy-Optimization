@@ -15,10 +15,8 @@ This repository contains code and instructions for optimizing a trend-based trad
 - **Margin**: Not used in this strategy.
 
 ## Repository Structure
-- `data/`: Store your historical EURUSD candlestick data (CSV files or other formats).
+- `data/`: Store your historical EURUSD candlestick data (EURUSD_H1.CSV).
 - `notebooks/`: Jupyter Notebook files for strategy development and optimization.
-- `results/`: Save optimized parameters, performance metrics, and backtesting results.
-- `scripts/`: Python scripts for PSO, GA, and other optimization tasks.
 - `pine_script/`: Pine Script code for implementing the strategy on TradingView.
 
 ## Getting Started
