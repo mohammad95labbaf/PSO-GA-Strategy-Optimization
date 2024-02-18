@@ -16,8 +16,8 @@ This repository contains code and instructions for optimizing a trend-based trad
 
 ## Repository Structure
 - `data/`: Store your historical EURUSD candlestick data (EURUSD_H1.CSV).
-- `notebooks/`: Jupyter Notebook files for strategy development and optimization.
-- `pine_script/`: Pine Script code for implementing the strategy on TradingView.
+- `notebooks/`: Jupyter Notebook files for strategy development and optimization (PSO_GA_Strategy_Optimization.ipynb).
+- `pine_script/`: Pine Script code for implementing the strategy on TradingView (PSO_GA_Strategy_Optimization.txt).
 
 ## Getting Started
 1. **Data Preparation**:
@@ -46,10 +46,6 @@ This repository contains code and instructions for optimizing a trend-based trad
     - **Trailing Stop**: Add a trailing stop feature.
     - **Margin Optimization**: Optimize margin settings for risk management.
 
-## Usage
-- Clone this repository.
-- Follow the Jupyter Notebooks in the `notebooks/` directory.
-- Use the optimized parameters in the Pine Script code in the Supertrend EMA Strategy.
 
 ## Disclaimer
 This code is provided for educational and research purposes only. It is **not financial advice**. Use it at your own risk. Always consult with a qualified financial professional before making any investment decisions.
